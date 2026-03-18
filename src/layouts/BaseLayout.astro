@@ -16,7 +16,11 @@ interface Props {
   canonical?: string;
 }
 
-const { title, description, canonical = siteConfig.web + Astro.url.pathname } = Astro.props;
+// Une base URL y path evitando dobles slash
+const joinUrl = (base: string, path: string) =>
+  base.replace(/\/$/, '') + '/' + path.replace(/^\//, '');
+
+const { title, description, canonical = joinUrl(siteConfig.web, Astro.url.pathname) } = Astro.props;
 
 // ── Fuente dinámica ───────────────────────────────────────────────────────────
 const fontMap: Record<string, { query: string; name: string }> = {

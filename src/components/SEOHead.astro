@@ -14,6 +14,18 @@ const {
   canonical,
   ogImage = `${siteConfig.web}/og-default.png`,
 } = Astro.props;
+
+// Noindex en staging/preview: si la URL de build no coincide con la web de producción
+// import.meta.env.SITE lee el campo `site` de astro.config.mjs, que a su vez
+// lee PUBLIC_SITE_URL del dashboard. En producción deben coincidir.
+const builtSite = (import.meta.env.SITE ?? '').replace(/\/$/, '');
+const prodSite  = siteConfig.web.replace(/\/$/, '');
+// Si PUBLIC_SITE_URL no está configurado (builtSite vacío), asume producción
+// para no bloquear la indexación por un olvido de configuración
+const isProduction = !builtSite || builtSite === prodSite;
+const robotsContent = isProduction
+  ? 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+  : 'noindex, nofollow';
 ---
 
 <meta charset="utf-8" />
@@ -22,8 +34,8 @@ const {
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
 
-<!-- Robots -->
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<!-- Robots: index en producción, noindex en staging/preview -->
+<meta name="robots" content={robotsContent} />
 
 <!-- Open Graph -->
 <meta property="og:type"        content="website" />
