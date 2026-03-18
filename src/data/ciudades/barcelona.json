@@ -1,0 +1,200 @@
+{
+  "slug": "barcelona",
+  "nombre": "Barcelona",
+  "provincia": "Barcelona",
+  "lat": 41.3881428051638,
+  "lng": 2.1680264530411044,
+  "telefono": "602365996",
+  "email": "info@justclean.es",
+  "direccion": "Rambla de Catalunya, 8, Informàtica, Eixample",
+  "codigoPostal": "08007 ",
+  "zonas": [
+    "Ciutat Vella",
+    "Eixample",
+    "Gràcia",
+    "Sarrià-Sant Gervasi",
+    "Les Corts",
+    "Sants-Montjuïc",
+    "Horta-Guinardó",
+    "Nou Barris",
+    "Sant Andreu",
+    "Poblenou",
+    "Barceloneta",
+    "El Raval",
+    "La Mina",
+    "Trinitat Nova",
+    "Collblanc"
+  ],
+  "serviciosActivos": [
+    "limpieza-por-defuncion",
+    "retirada-de-restos-biologicos",
+    "vaciado-de-muebles-y-enseres-afectados",
+    "limpieza-y-desinfeccion-de-zonas-afectadas",
+    "tratamiento-de-ozono-para-eliminar-olores"
+  ],
+  "seoIntro": "Limpiezas por defunción en Barcelona... En JustClean entendemos el difícil momento que atraviesa su familia. Barcelona, ciudad con más de 5 millones de habitantes situada en la comarca del Barcelonés y la provincia de Barcelona, requiere servicios especializados como los nuestros para garantizar un espacio digno y respetuoso tras una pérdida. Ofrecemos limpieza integral, desinfección profunda y gestión completa de residuos biológicos, siempre con el máximo respeto y discreción.",
+  "metaDesc": "Limpiezas por Defunción en Barcelona — Servicios profesionales y discretos para momentos difíciles. Contacta a JustClean hoy mismo en {ciudad}.",
+  "ciudadesSecundarias": [
+    {
+      "nombre": "L'Hospitalet de Llobregat",
+      "slug": "lhospitalet-de-llobregat",
+      "seoIntro": "Limpiezas por defunción en L'Hospitalet de Llobregat. Somos especialistas en la limpieza y desinfección de viviendas tras fallecimiento en este municipio con más de 250.000 habitantes, perteneciente a la comarca del Baix Llobregat en la provincia de Barcelona. Cubrimos todos los barrios, desde Collblanc hasta Bellvitge.",
+      "metaDesc": "Limpiezas por defunción en L'Hospitalet — Limpieza completa y profesional | JustClean",
+      "zonas": [
+        "Collblanc",
+        "Sant Joan Despí",
+        "La Salut",
+        "Bellvitge",
+        "Ciutat Meridiana",
+        "Les Planetes",
+        "Vilba Granada",
+        "Barri del Turó"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Badalona",
+      "slug": "badalona",
+      "seoIntro": "Limpiezas por defunción en Badalona.  Servicios de limpieza post-fallecimiento rápidos y eficientes en Badalona, una ciudad con más de 240.000 habitantes situada en la comarca del Vallès Oriental, provincia de Barcelona. Atendemos a áreas como El Pont d’en Pintors, Montcabí i Les Fonts, y Sant Pere Màrtir.",
+      "metaDesc": "Limpiezas por defunción en Badalona —  Soluciones rápidas y profesionales | JustClean",
+      "zonas": [
+        "El Pont d’en Pintors",
+        "Montcabí i Les Fonts",
+        "Sant Pere Màrtir",
+        "La Barceloneta",
+        "Casagemes",
+        "Collègia",
+        "Bufyvet",
+        "Mas Ramada"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Sant Adrià de Besòs",
+      "slug": "sant-adria-de-besos",
+      "seoIntro": "Limpiezas por defunción en Sant Adrià de Besòs.  Expertos en limpieza tras fallecimiento en Sant Adrià de Besòs, un municipio con más de 85.000 habitantes en la comarca del Barcelonès Nord, provincia de Barcelona. Ofrecemos servicios a domicilio en todos los barrios, incluyendo Can Paderies y Les Planetes.",
+      "metaDesc": "Limpiezas por defunción en Sant Adrià — Servicio discreto y respetuoso | JustClean",
+      "zonas": [
+        "Can Paderies",
+        "Les Planetes",
+        "Lauroj",
+        "Foneria",
+        "Trullols",
+        "Salut Pere Maties",
+        "L'Amadeu",
+        "Remolar"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Esplugues de Llobregat",
+      "slug": "esplugues-de-llobregat",
+      "seoIntro": "Limpiezas por defunción en Esplugues de Llobregat.  Proporcionamos servicios especializados de limpieza después del fallecimiento en Esplugues de Llobregat, una ciudad con más de 95.000 habitantes ubicada en la comarca del Baix Llobregat, provincia de Barcelona. Atendemos a zonas como Les Planes y Sant Ramon.",
+      "metaDesc": "Limpiezas por defunción en Esplugues —  Profesionales con experiencia | JustClean",
+      "zonas": [
+        "Les Planes",
+        "Sant Ramon",
+        "Collblanc",
+        "Centre",
+        "Can Felícia",
+        "Font Picadia",
+        "El Boix",
+        "La Pedrera"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Cornellà de Llobregat",
+      "slug": "cornella-de-llobregat",
+      "seoIntro": "Limpiezas por defunción en Cornellà de Llobregat.  Ofrecemos soluciones integrales para la limpieza de viviendas tras el fallecimiento en Cornellà de Llobregat, un municipio con más de 120.000 habitantes en la comarca del Baix Llobregat, provincia de Barcelona. Cubrimos áreas como Singuerets y Les Planes.",
+      "metaDesc": "Limpiezas por defunción en Cornellà —  Comprensión y profesionalidad | JustClean",
+      "zonas": [
+        "Singuerets",
+        "Les Planes",
+        "Sant Ildefons",
+        "Molinot",
+        "Can Castellet",
+        "Barberà del Vallès",
+        "Les Corts",
+        "Salbidea"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Molins de Rei",
+      "slug": "molins-de-rei",
+      "seoIntro": "Limpiezas por defunción en Molins de Rei.  Servicios profesionales y discretos de limpieza tras fallecimiento en Molins de Rei, un municipio con más de 35.000 habitantes situado en la comarca del Vallès Occidental, provincia de Barcelona. Atendemos a barrios como Centre y Sant Pere.",
+      "metaDesc": "Limpiezas por defunción en Molins de Rei —  Empatía y eficacia garantizadas | JustClean",
+      "zonas": [
+        "Centre",
+        "Sant Pere",
+        "Nord",
+        "Sud",
+        "Llofriu Blau",
+        "Pla de les Acàcies",
+        "Can Cases",
+        "Les Maçanes"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    },
+    {
+      "nombre": "Santa Coloma de Gramenet",
+      "slug": "santa-coloma-de-gramenet",
+      "seoIntro": "Limpiezas por defunción en Santa Coloma de Gramenet.  Especialistas en la limpieza y desinfección después del fallecimiento en Santa Coloma de Gramenet, una ciudad con más de 120.000 habitantes perteneciente a la comarca del Barcelonès Nord, provincia de Barcelona. Ofrecemos servicios rápidos y eficientes en todo el municipio.",
+      "metaDesc": "Limpiezas por defunción en Santa Coloma —  Servicios confiables y asequibles | JustClean",
+      "zonas": [
+        "Centre",
+        "Torre Baro",
+        "Les Contentes",
+        "La Bruguera",
+        "Viladecans",
+        "Can Carbanyer",
+        "Coll Blanc",
+        "Sant Cosme Roura"
+      ],
+      "serviciosActivos": [
+        "limpieza-por-defuncion",
+        "retirada-de-restos-biologicos",
+        "vaciado-de-muebles-y-enseres-afectados",
+        "limpieza-y-desinfeccion-de-zonas-afectadas",
+        "tratamiento-de-ozono-para-eliminar-olores"
+      ]
+    }
+  ]
+}
