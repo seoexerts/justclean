@@ -16,7 +16,7 @@ import { EMPRESA } from './empresa';
 
 // ── JSON de ciudades ──────────────────────────────────────────────────────────
 // Generado automáticamente por sync-cities.js — no edites esta sección a mano
-import ciudadPrincipalRaw              from './ciudades/ciudad-principal.json';
+import ciudadPrincipalRaw              from './ciudades/barcelona.json';
 
 const rawCiudades = [
   ciudadPrincipalRaw,  // ciudad principal — primera del array
